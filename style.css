@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+
+    margin: 0px;
+}
+
+.nav{
+    font-size: 20px;
+    margin: 50px;
+    display: block;
+    text-decoration: none;
+}
+
+.name{
+    text-align: center;
+    margin: 50px;
+    color: rgb(231, 49, 49);
+}
